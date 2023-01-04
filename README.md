@@ -1,7 +1,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedEllaithy.MohammedEllaithy)
+<Section align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04F70A&width=435&lines=Mohamed+Ellaithy;Highly+Motivated+Software+Engineer;%26+FullStack+.NET+Developer)](https://git.io/typing-svg)
 ---
+</section>
 
 <strong><section align="center">
   <code><a href="https://www.hackerrank.com/m_ellaithy11" title="leefcode profile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" width="32" alt="HackerRank logo"> HackerRank Profile</a></code>
