@@ -1,10 +1,10 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=${MohammedEllaithy}.${MohammedEllaithy})
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedEllaithy.MohammedEllaithy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04F70A&width=435&lines=Mohamed+Ellaithy;Highly+Motivated+Software+Engineer;%26+FullStack+.NET+Developer)](https://git.io/typing-svg)
 ---
 
 <strong><section align="center">
-  <code><a href="https://www.hackerrank.com/m_ellaithy11" title="leefcode profile" target="_blank"><img src="upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" width="32" alt="HackerRank logo"> HackerRank Profile</a></code>
+  <code><a href="https://www.hackerrank.com/m_ellaithy11" title="leefcode profile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" width="32" alt="HackerRank logo"> HackerRank Profile</a></code>
   <code><a href="https://www.linkedin.com/in/moellaithy/" title="lindedin profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJizK-O7rjmwzro2mvul2xv-Uw1AuPEQajqA&usqp=CAU" width="32" alt="linkedin logo"> Linkedin Profile</a></code>
   <code><a href="https://www.github.com/MohammedEllaithy/" title="github profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JHP_ZU-606Tcj8clDo0chONPuvAgQsV2UA&usqp=CAU" width="32" alt="github logo"> GitHub Profile</a></code>
 <section></strong>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" width="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="64" />
   <section>
-    <h5> Familiarity with: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="52" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="52" /></h5>
+    <h5> Familiarity with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" width="70" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="70" /></h5>
   </section>
 </section>
   
@@ -55,7 +55,7 @@
 <section align="center">
   <h2> :chart_with_downwards_trend: Statistics :bar_chart: </h2>
   <br />
-  <a href="https://github.com/moustf/github-readme-stats">
+  <a href="https://github.com/MohammedEllaithy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedEllaithy&count_private=true&show_icons=true" />
 </a>
 <br />
@@ -66,12 +66,12 @@
 <br />
 <br />
 <a href="https://github.com/MohammedEllaithy/DatingApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedEllaithy&repo=FamBestie" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedEllaithy&repo=DatingApp" />
 </a>
 <a href="https://github.com/MohammedEllaithy/DatingApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedEllaithy&repo=GeekSchool" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedEllaithy&repo=DonateToGO" />
 </a>
 <a href="https://github.com/MohammedEllaithy/DatingApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedEllaithy&repo=DSandAlgos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedEllaithy&repo=WorldCupResults" />
 </a>
 </section>
